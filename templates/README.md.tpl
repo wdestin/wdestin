@@ -4,7 +4,7 @@ Hi 👋 My name is Wid-Gaël Destin
 Software Developer
 ------------------
 
-I've been coding for 5+ years, but have really found a passion for the cloud, serverless and microservices development.
+I've been coding for 5+ years, but have really found a passion for building products.
 
 * 🌍  I'm based in Paris, France
 * 🖥️  See my portfolio at [wdestin.xyz](http://wdestin.xyz)
@@ -15,11 +15,6 @@ I've been coding for 5+ years, but have really found a passion for the cloud, se
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-#### 🌱 My latest projects
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### ⭐ Recent Stars
