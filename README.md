@@ -4,7 +4,7 @@ Hi 👋 My name is Wid-Gaël Destin
 Software Developer
 ------------------
 
-I've been coding for 5+ years, but have really found a passion for the cloud, serverless and microservices development.
+I've been coding for 5+ years, but have really found a passion for building products.
 
 * 🌍  I'm based in Paris, France
 * 🖥️  See my portfolio at [wdestin.xyz](http://wdestin.xyz)
@@ -15,21 +15,18 @@ I've been coding for 5+ years, but have really found a passion for the cloud, se
 #### 👷 Check out what I'm currently working on
 
 
-#### 🌱 My latest projects
-
-
 #### ⭐ Recent Stars
 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 day ago)
-- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (2 days ago)
-- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application (2 days ago)
-- [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) - Create an awesome GitHub profile in minutes (4 days ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 days ago)
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –  (3 weeks ago)
-- [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) -  (1 month ago)
-- [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。 (1 month ago)
-- [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator (1 month ago)
-- [EXERLOG/exer_log](https://github.com/EXERLOG/exer_log) - exer_log - authored by @KalleHallden (2 months ago)
+- [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying &#34;you forgot to …&#34; in code review (2 days ago)
+- [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵 (1 week ago)
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (2 weeks ago)
+- [LyraSearch/lyra](https://github.com/LyraSearch/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. (2 weeks ago)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (3 weeks ago)
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (3 weeks ago)
+- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application (3 weeks ago)
+- [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) - Create an awesome GitHub profile in minutes (3 weeks ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 weeks ago)
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
