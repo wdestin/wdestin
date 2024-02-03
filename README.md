@@ -1,23 +1,20 @@
 Hi 👋 My name is Wid-Gaël Destin
 ================================
 
-Software Developer
+Software Engineer
 ------------------
 
-I've been coding for 5+ years, but have really found a passion for building products.
-
-* 🌍  I'm based in Paris, France
+* 🌍  I'm based in Toronto, Canada
 * 🖥️  See my portfolio at [wdestin.xyz](http://wdestin.xyz)
 * ✉️  You can contact me at [hello@wdestin.xyz](mailto:hello@wdestin.xyz)
 
-* ⚡  I love everything about tech and maker culture
 
 #### 👷 Check out what I'm currently working on
 
 
 #### ⭐ Recent Stars
 
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (6 days ago)
+- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (1 week ago)
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (5 months ago)
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images (8 months ago)
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol (9 months ago)
