@@ -14,8 +14,8 @@ Software Engineer
 
 #### ⭐ Recent Stars
 
-- [fraawlen/cassette](https://github.com/fraawlen/cassette) - POSIX application framework featuring a retro-futurist GUI toolkit and a configuration language. (1 month ago)
-- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly (5 months ago)
+- [fraawlen/cassette](https://github.com/fraawlen/cassette) - POSIX application framework featuring a retro-futurist GUI toolkit and a configuration language. (2 months ago)
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly (6 months ago)
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator. (1 year ago)
 - [assadollahi/kayra](https://github.com/assadollahi/kayra) - an easy to modify, 3d printable open source humanoid robot evolved by the community (1 year ago)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (1 year ago)
